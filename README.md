@@ -5,5 +5,5 @@
 
 🌱 Actually, i decided back to school and learn JavaScript, React, Node Js and i'm curious so i'm come back soon to add to this list more tech stack :simple_smile: .
 
-⚡  Anyway... I like mountain :globe_with_meridians: , i'm a Daddy family :family: , learn 🧠
+⚡  Anyway... I like mountain :globe_with_meridians: , Family :family: , learn 🧠
 
